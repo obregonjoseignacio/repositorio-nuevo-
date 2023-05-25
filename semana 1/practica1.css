@@ -1,0 +1,67 @@
+.title{
+position: absolute;
+width: 295px;
+height: 37px;
+left: 549px;
+top: 71px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+color: #000000;
+}
+
+.home{
+    position: absolute;
+    width: 73px;
+    height: 28px;
+left: 33px;
+top: 165px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color: #3B06D2;
+}
+
+.parrafo1{
+    position: absolute;
+width: 1367px;
+height: 114px;
+left: 33px;
+top: 209px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #000000;
+}
+
+.rectangle1{
+    position: absolute;
+    width: 385px;
+    height: 182px;
+    left: 38px;
+    top: 330px;
+}
+.rectangle2{
+    position: absolute;
+width: 385px;
+height: 182px;
+left: 453px;
+top: 330px;
+}
+.rectangle3{
+    position: absolute;
+width: 385px;
+height: 182px;
+left: 868px;
+top: 330px;
+color: re;
+}

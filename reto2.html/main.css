@@ -4,12 +4,15 @@
 }
 
 .body {
-    
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(https://depor.com/resizer/1rXVVbd2pBfrAqtfHEruB7BOMZo=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IJFGMKBMJ5DATPRGIIPPPCNNXI.jpg);
+    background-image: url(https://depor.com/resizer/1rXVVbd2pBfrAqtfHEruB7BOMZo=/1200x800/smart/filters:formatjpge);
     background-size: cover;
+    text-align: center;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-height: 100vh;
 }
 
 .main {
@@ -23,4 +26,25 @@
 
 .imagen-principal {
     border-radius: 50%;
+}
+
+.titulo,.subtitulo,.parrafo{
+    letter-spacing: 2px;
+}
+
+
+
+.footer {
+    margin-top: 10px;
+}
+footer img{
+    border-radius: 50%;
+    margin: 10px;
+    width: 3em;
+}
+
+footer img:hover {
+    transform: scale(1.3);
+    transition: all 0.5s ease;
+    border: solid orange 2px;
 }
